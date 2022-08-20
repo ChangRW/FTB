@@ -2,5 +2,5 @@
 headless: false
 ---
 
-* [Nextcloud](/docs/nextcloud/)
-* [Jitsi](/docs/jitsi/)
+* [Nextcloud]({{< relref "docs/nextcloud/" >}})
+* [Jitsi]({{< relref "docs/jitsi/" >}})
